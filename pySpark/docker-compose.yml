@@ -1,0 +1,5 @@
+version: "3"
+services:
+  spark-local:
+    build: .
+    container_name: spark-local
